@@ -1,0 +1,479 @@
+# depslib dependency file v1.0
+1369680328 source:c:\users\yeniii\desktop\proje 3\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1369685753 c:\users\yeniii\desktop\proje 3\string.h
+	<iostream>
+
+1369028074 c:\users\yeniii\desktop\proje 3\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1369689184 source:c:\users\yeniii\desktop\proje 3\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369688556 c:\users\yeniii\desktop\proje 3\tarih.h
+	<iostream>
+
+1369679809 c:\users\yeniii\desktop\proje 3\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1369678713 c:\users\yeniii\desktop\proje 3\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369688556 source:c:\users\yeniii\desktop\proje 3\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369682020 source:c:\users\yeniii\desktop\proje 3\ogrenci.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369685806 source:c:\users\yeniii\desktop\proje 3\string.cpp
+	<iostream>
+	"String.h"
+
+1369689293 source:c:\users\yeniii\desktop\proje 3\ogrencidizisi.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369682022 source:f:\proje 333\ogrenci.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369688558 f:\proje 333\tarih.h
+	<iostream>
+
+1369730200 f:\proje 333\string.h
+	<iostream>
+
+1369028074 f:\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1369679810 f:\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1369730014 source:f:\proje 333\ogrencidizisi.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369678714 f:\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369685808 source:f:\proje 333\string.cpp
+	<iostream>
+	"String.h"
+
+1369688558 source:f:\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369729484 source:f:\proje 333\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369680330 source:f:\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1369771354 source:c:\users\lenovo\desktop\proje 333\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369688558 c:\users\lenovo\desktop\proje 333\tarih.h
+	<iostream>
+
+1369730200 c:\users\lenovo\desktop\proje 333\string.h
+	<iostream>
+
+1369740784 c:\users\lenovo\desktop\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1369818812 c:\users\lenovo\desktop\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1369818812 source:c:\users\lenovo\desktop\proje 333\ogrencidizisi.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369775711 c:\users\lenovo\desktop\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369741076 source:c:\users\lenovo\desktop\proje 333\string.cpp
+	<iostream>
+	"String.h"
+
+1369688558 source:c:\users\lenovo\desktop\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369771061 source:c:\users\lenovo\desktop\proje 333\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369680330 source:c:\users\lenovo\desktop\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1369852266 source:k:\proje 333\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369854922 k:\proje 333\tarih.h
+	<iostream>
+
+1369845666 k:\proje 333\string.h
+	<iostream>
+
+1369740786 k:\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1369854922 k:\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1369852404 source:k:\proje 333\ogrencidizisi.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369848866 k:\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369854020 source:k:\proje 333\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
+1369852268 source:k:\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369851684 source:k:\proje 333\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369851906 source:k:\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1369852266 source:c:\users\egebilmuh\desktop\proje 333\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369854922 c:\users\egebilmuh\desktop\proje 333\tarih.h
+	<iostream>
+
+1369845666 c:\users\egebilmuh\desktop\proje 333\string.h
+	<iostream>
+
+1369740786 c:\users\egebilmuh\desktop\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1369854922 c:\users\egebilmuh\desktop\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1369122747 source:c:\users\egebilmuh\desktop\proje 333\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
+1369122743 source:c:\users\egebilmuh\desktop\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369851906 source:c:\users\egebilmuh\desktop\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1194570836 source:c:\users\egebilmuh\desktop\proje 333\ogrencidizisi.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369855004 c:\users\egebilmuh\desktop\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1370020690 source:c:\users\yeniii\desktop\proje 333\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369937337 c:\users\yeniii\desktop\proje 333\tarih.h
+	<iostream>
+
+1369942820 c:\users\yeniii\desktop\proje 333\string.h
+	<iostream>
+
+1369949572 c:\users\yeniii\desktop\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1370020690 c:\users\yeniii\desktop\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1370020583 source:c:\users\yeniii\desktop\proje 333\ogrencidizisi.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369994560 c:\users\yeniii\desktop\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369989691 source:c:\users\yeniii\desktop\proje 333\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
+1370023229 source:c:\users\yeniii\desktop\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369949572 source:c:\users\yeniii\desktop\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1369989956 source:c:\users\yeniii\desktop\proje 333\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1370020690 source:c:\users\fulyaa\desktop\proje 333\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369937337 c:\users\fulyaa\desktop\proje 333\tarih.h
+	<iostream>
+
+1369942820 c:\users\fulyaa\desktop\proje 333\string.h
+	<iostream>
+
+1369949572 c:\users\fulyaa\desktop\proje 333\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1370020690 c:\users\fulyaa\desktop\proje 333\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1370020583 source:c:\users\fulyaa\desktop\proje 333\ogrencidizisi.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369994560 c:\users\fulyaa\desktop\proje 333\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369989691 source:c:\users\fulyaa\desktop\proje 333\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
+1370023229 source:c:\users\fulyaa\desktop\proje 333\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369989956 source:c:\users\fulyaa\desktop\proje 333\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369949572 source:c:\users\fulyaa\desktop\proje 333\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
+1370020690 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\ogrenci.cpp
+	<iostream>
+	<iomanip>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+
+1369937337 c:\users\fulyaa\desktop\ogrencitakipsistemi\tarih.h
+	<iostream>
+
+1369942820 c:\users\fulyaa\desktop\ogrencitakipsistemi\string.h
+	<iostream>
+
+1369949572 c:\users\fulyaa\desktop\ogrencitakipsistemi\bilgisayar.h
+	<iostream>
+	"String.h"
+
+1370020690 c:\users\fulyaa\desktop\ogrencitakipsistemi\ogrenci.h
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+
+1370020583 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\ogrencidizisi.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369994560 c:\users\fulyaa\desktop\ogrencitakipsistemi\ogrencidizisi.h
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+	"Tarih.h"
+	"Ogrenci.h"
+
+1369989691 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\string.cpp
+	<iostream>
+	<cstring>
+	"String.h"
+
+1370023229 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\tarih.cpp
+	<iostream>
+	"Tarih.h"
+
+1369989956 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\main.cpp
+	<iostream>
+	"Tarih.h"
+	"String.h"
+	"Bilgisayar.h"
+	"Ogrenci.h"
+	"OgrenciDizisi.h"
+
+1369949572 source:c:\users\fulyaa\desktop\ogrencitakipsistemi\bilgisayar.cpp
+	<iostream>
+	"String.h"
+	"Bilgisayar.h"
+
